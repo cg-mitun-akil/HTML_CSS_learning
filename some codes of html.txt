@@ -1,0 +1,10 @@
+<b> - Bold text
+<strong> - Important text bold
+<i> - Italic text
+<em> - Emphasized text italic but effects screen readers emphasise
+<mark> - Marked text highlight
+<small> - Smaller text
+<del> - Deleted text crossed
+<ins> - Inserted text underlined
+<sub> - Subscript text
+<sup> - Superscript text
